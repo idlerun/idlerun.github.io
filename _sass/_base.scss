@@ -186,6 +186,17 @@ pre {
     }
 }
 
+.gh-link {
+    > svg {
+        display: inline-block;
+        width: 24px;
+        height: 24px;
+        vertical-align: middle;
+        path {
+            fill: #000;
+        }
+    }
+}
 
 
 /**

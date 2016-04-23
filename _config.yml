@@ -7,4 +7,5 @@ url: "http://www.idle.run"
 github_username:  idlerun
 markdown: kramdown
 repository: github.com/idlerun
+permalink: /:title
 excerpt_separator: <!--more-->
