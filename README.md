@@ -19,7 +19,7 @@ A custom, very simple ruby script I wrote which does the following
 * Use the github API to list my public repositories
 * Sync the README.md from each repository to `github/_posts/{date}-{reponame}.md`
 
-_Note: the *github/_posts* indicates a Jekyll category of 'github' containing posts_
+_Note: the `github/_posts` directory indicates a Jekyll category of 'github' containing posts_
 
 ### README.md Requirements
 Each repository will be checked for a README.md
