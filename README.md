@@ -1,3 +1,9 @@
+---
+title: "Github Pages with README Sync"
+tags: github pages jekyll ruby
+date: 2016-05-2
+---
+
 # [idle.run](http://idle.run)
 
 This website is designed to showcase interesting projects I'm working on which are hosted on Github.
