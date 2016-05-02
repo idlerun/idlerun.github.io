@@ -24,6 +24,7 @@ run it through markdownify to make it into html.
 the include which is read in by the repo.html template. It expects a `page.reponame` attribute _(inside the --- at top of file)_ which indicates what repository README.md to include and to link to with a 'project page' link.
 
 A [post](https://github.com/idlerun/idlerun.github.io/blob/master/_posts/2016-05-01-order-chaos.md) ends up looking like this
+
 ```text
 ---
 layout: repo
