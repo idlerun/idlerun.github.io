@@ -1,3 +1,11 @@
+---
+reponame: gradle-app
+layout: repo
+title: "Gradle Application Customization"
+tags: swagger api nodejs
+date: 2016-04-12
+---
+
 The Gradle application plugin is very useful for generating a distributable application package. There are some customizations that are useful to have available.
 
 ### [build.gradle](https://github.com/idlerun/gradle-app/blob/master/build.gradle)

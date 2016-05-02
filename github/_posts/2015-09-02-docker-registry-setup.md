@@ -1,3 +1,11 @@
+---
+reponame: docker-registry-setup
+layout: repo
+title: "Private Docker Registry with Client SSL Certs"
+tags: docker registry ssl
+date: 2015-09-02
+---
+
 Hosting a private Docker registry is very useful. This article details how to setup a Docker registry
 running inside AWS which is secured by client certificates for authentication.
 

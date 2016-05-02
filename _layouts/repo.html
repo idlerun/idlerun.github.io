@@ -2,6 +2,9 @@
 layout: post
 ---
 
+{% capture link_content %}
+# Project Page: [{% include github-link.html %} github/{{page.reponame}}](https://github.com/{{site.github_username}}/{{page.reponame}})
+{% endcapture %}
+{{ link_content | markdownify }}
+
 {{ content }}
-{% capture repo_content %}{% include github-repo.md %}{% endcapture %}
-{{ repo_content | markdownify }}

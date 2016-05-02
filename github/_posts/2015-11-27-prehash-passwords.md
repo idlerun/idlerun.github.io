@@ -1,3 +1,11 @@
+---
+reponame: prehash-passwords
+layout: repo
+title: "Pre-Hashing Passwords In Python"
+tags: python mysql linux
+date: 2015-11-27
+---
+
 Hashing passwords beforehand which will be used in scripts or other places can be useful. It allows you to store the hashed value for later use, but keep the original password securely stored elsewhere. Here's how to hash passwords in Python for Unix user accounts and MySQL users.
 
 ## Unix Password

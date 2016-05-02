@@ -1,3 +1,12 @@
+---
+reponame: opsworks-ssh
+layout: repo
+title: "AWS OpsWorks SSH Access"
+tags: aws opsworks ssh
+date: 2015-07-10
+---
+
+
 Connecting to OpsWorks instance with SSH can be can be problematic. Here is a script which generates an SSH config file containing an entry for each host in the OpsWorks stack.
 
 There are two problems to be solved when connecting to OpsWorks instances:
