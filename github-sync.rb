@@ -24,6 +24,7 @@ repos.each { |r|
           content = """---
 reponame: #{reponame}
 layout: repo""" + readme[3..-1]
+          reponame.gsub!('.','_')
           outfile = "#{outdir}/#{fm['date']}-#{reponame}.md"
           File.open(outfile, 'w') {|f| f.write(content) }
           puts "Wrote #{outfile}"
