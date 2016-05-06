@@ -10,6 +10,7 @@ Two paired CLI scripts which perform very simple AES-256 encryption of any file
 using `openssl aes-256-cbc`. A password is required for any encrypt or decrypt operations
 
 ### [encrypt.sh](https://github.com/idlerun/openssl-encrypt/blob/master/encrypt.sh)
+
 ### [decrypt.sh](https://github.com/idlerun/openssl-encrypt/blob/master/decrypt.sh)
 
 ## Usage:
