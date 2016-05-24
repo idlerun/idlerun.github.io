@@ -9,3 +9,4 @@ markdown: kramdown
 repository: github.com/idlerun
 permalink: /:title
 excerpt_separator: <!--more-->
+google_analytics_id: UA-62005522-2
