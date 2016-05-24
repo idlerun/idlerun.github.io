@@ -1,4 +1,5 @@
 ---
+page: https://idle.run
 title: "Github Pages with README Sync"
 tags: github pages jekyll ruby
 date: 2016-05-2
