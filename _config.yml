@@ -3,7 +3,7 @@ email: me@idle.run
 description: >
   Useful notes from a Software Engineer
 baseurl: ""
-url: "http://www.idle.run"
+url: "https://idle.run"
 github_username:  idlerun
 markdown: kramdown
 repository: github.com/idlerun
