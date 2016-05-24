@@ -1,6 +1,7 @@
 ---
 reponame: openssl-encrypt
 layout: repo
+page: http://www.idle.run/openssl-encrypt
 title: Simple OpenSSL File Encrypt/Decrypt
 tags: bash openssl
 date: 2016-05-06

@@ -1,6 +1,7 @@
 ---
 reponame: docker-registry-setup
 layout: repo
+page: http://www.idle.run/docker-registry-setup
 title: "Private Docker Registry with Client SSL Certs"
 tags: docker registry ssl
 date: 2015-09-02

@@ -1,6 +1,7 @@
 ---
 reponame: logo-creation
 layout: repo
+page: http://www.idle.run/logo-creation
 title: "Simple Logo and FavIcon Creation"
 tags: logo favicon
 date: 2016-05-20
