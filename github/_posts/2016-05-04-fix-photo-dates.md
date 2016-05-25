@@ -1,7 +1,7 @@
 ---
 reponame: fix-photo-dates
 layout: repo
-page: http://www.idle.run/fix-photo-dates
+page: https://idle.run/fix-photo-dates
 title: Automatic EXIF Date Fixer
 tags: python
 date: 2016-05-04

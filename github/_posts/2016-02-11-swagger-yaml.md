@@ -1,7 +1,7 @@
 ---
 reponame: swagger-yaml
 layout: repo
-page: http://www.idle.run/swagger-yaml
+page: https://idle.run/swagger-yaml
 title: "Swagger with Split YAML Files"
 tags: swagger yaml nodejs
 date: 2016-02-11
