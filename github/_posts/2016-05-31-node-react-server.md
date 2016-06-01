@@ -11,10 +11,17 @@ date: 2016-05-31
 
 This project is a starter template for a web server project with:
 
-- NodeJS Server using Express 4
-- HTTPS support
-- ReactJS Client
-- SASS and JS compilation with webpack
+- NodeJS server using Express 4 (with HTTPS)
+- ReactJS client packed up with webpack
+
+Extra goodies:
+
+- SASS support
+- Static resource serving
+- AJAX using JQuery
+- Babel loader
+- `morgan` and `log-timestamp` improve Node console logging
+
 
 ### Getting started
 
@@ -71,3 +78,12 @@ node .
 - Edit the client starting in [`src/client/`](https://github.com/idlerun/node-react-server/tree/src/client/)
 
 Browse the rest of the template and customize to your preference!
+
+
+### Caveats
+
+** Auto-reload not supported **
+
+The biggest lacking feature to me is that the dev server needs to be manually
+restarted to adopt any changes. We can't trivially use the webpack dev server since
+we are also running Express to host the server API.
